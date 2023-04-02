@@ -42,5 +42,5 @@ This file contains the ResultsView struct which displays the current expression 
 ## Display
 The display shows the numbers and operations entered by the user and the result of the calculation.
 
-## Author
+## Author
 This app was created by Fatih Şükran on 1.04.2023.
