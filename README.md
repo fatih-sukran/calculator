@@ -7,6 +7,13 @@ To install the app, simply clone or download the repository and open it in Xcode
 ## Usage
 The calculator allows users to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division. It also includes functionality for clearing the display and deleting the last entered character.
 
+## Screeshots
+<p float="center">
+  <img src="Screentshots/light.png" width="32%" />
+  <img src="Screentshots/dark.png" width="32%" /> 
+  <img src="Screentshots/calculation.png" width="32%" />
+</p>
+
 ## Buttons
 The calculator has the following buttons:
 
